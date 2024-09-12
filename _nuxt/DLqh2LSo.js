@@ -1,0 +1,1 @@
+import{bX as s}from"./DHGxcJGt.js";import{u}from"./CWCe9e3B.js";function i(e,a){const{title:r,titleTemplate:o,...m}=e;return u({title:r,titleTemplate:o,_flatMeta:m},{...a,transform(t){const n=s({...t._flatMeta});return delete t._flatMeta,{...t,meta:n}}})}export{i as u};
