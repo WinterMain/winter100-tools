@@ -11,30 +11,57 @@
         <image:image>
             <image:loc>https://tools.winter100.com/images/warmer.png</image:loc>
         </image:image>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/" />
     </url>
     <url>
         <loc>https://tools.winter100.com/abidecoder</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/abidecoder" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/abidecoder" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/abidecoder" />
     </url>
     <url>
         <loc>https://tools.winter100.com/adatools</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/adatools" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/adatools" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/adatools" />
     </url>
     <url>
         <loc>https://tools.winter100.com/aes</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/aes" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/aes" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/aes" />
     </url>
     <url>
         <loc>https://tools.winter100.com/base64</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/base64" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/base64" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/base64" />
     </url>
     <url>
         <loc>https://tools.winter100.com/chscht</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/chscht" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/chscht" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/chscht" />
     </url>
     <url>
         <loc>https://tools.winter100.com/contract_evm</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/contract_evm" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/contract_evm" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/contract_evm" />
     </url>
     <url>
         <loc>https://tools.winter100.com/decodetx</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/decodetx" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/decodetx" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/decodetx" />
     </url>
     <url>
         <loc>https://tools.winter100.com/des</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/des" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/des" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/des" />
     </url>
     <url>
         <loc>https://tools.winter100.com/donate</loc>
@@ -47,105 +74,204 @@
         <image:image>
             <image:loc>https://tools.winter100.com/images/author.jpeg</image:loc>
         </image:image>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/donate" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/donate" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/donate" />
     </url>
     <url>
         <loc>https://tools.winter100.com/encoder</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/encoder" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/encoder" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/encoder" />
     </url>
     <url>
         <loc>https://tools.winter100.com/hex</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/hex" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/hex" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/hex" />
     </url>
     <url>
         <loc>https://tools.winter100.com/hmacmd5</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/hmacmd5" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/hmacmd5" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/hmacmd5" />
     </url>
     <url>
         <loc>https://tools.winter100.com/hmacripemd160</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/hmacripemd160" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/hmacripemd160" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/hmacripemd160" />
     </url>
     <url>
         <loc>https://tools.winter100.com/hmacsha1</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/hmacsha1" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/hmacsha1" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/hmacsha1" />
     </url>
     <url>
         <loc>https://tools.winter100.com/hmacsha224</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/hmacsha224" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/hmacsha224" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/hmacsha224" />
     </url>
     <url>
         <loc>https://tools.winter100.com/hmacsha256</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/hmacsha256" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/hmacsha256" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/hmacsha256" />
     </url>
     <url>
         <loc>https://tools.winter100.com/hmacsha384</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/hmacsha384" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/hmacsha384" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/hmacsha384" />
     </url>
     <url>
         <loc>https://tools.winter100.com/hmacsha512</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/hmacsha512" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/hmacsha512" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/hmacsha512" />
     </url>
     <url>
         <loc>https://tools.winter100.com/jsonformat</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/jsonformat" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/jsonformat" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/jsonformat" />
     </url>
     <url>
         <loc>https://tools.winter100.com/life</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/life" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/life" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/life" />
     </url>
     <url>
         <loc>https://tools.winter100.com/md5</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/md5" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/md5" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/md5" />
     </url>
     <url>
         <loc>https://tools.winter100.com/microsofttranslate</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/microsofttranslate" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/microsofttranslate" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/microsofttranslate" />
     </url>
     <url>
         <loc>https://tools.winter100.com/pbkdf2</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/pbkdf2" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/pbkdf2" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/pbkdf2" />
     </url>
     <url>
         <loc>https://tools.winter100.com/pic2base64</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/pic2base64" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/pic2base64" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/pic2base64" />
     </url>
     <url>
         <loc>https://tools.winter100.com/qrcode</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/qrcode" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/qrcode" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/qrcode" />
     </url>
     <url>
         <loc>https://tools.winter100.com/qrcodemul</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/qrcodemul" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/qrcodemul" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/qrcodemul" />
     </url>
     <url>
         <loc>https://tools.winter100.com/qrcodereader</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/qrcodereader" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/qrcodereader" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/qrcodereader" />
     </url>
     <url>
         <loc>https://tools.winter100.com/rabbit</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/rabbit" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/rabbit" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/rabbit" />
     </url>
     <url>
         <loc>https://tools.winter100.com/rc4</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/rc4" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/rc4" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/rc4" />
     </url>
     <url>
         <loc>https://tools.winter100.com/rc4drop</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/rc4drop" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/rc4drop" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/rc4drop" />
     </url>
     <url>
         <loc>https://tools.winter100.com/ripemd160</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/ripemd160" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/ripemd160" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/ripemd160" />
     </url>
     <url>
         <loc>https://tools.winter100.com/sha1</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/sha1" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/sha1" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/sha1" />
     </url>
     <url>
         <loc>https://tools.winter100.com/sha3</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/sha3" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/sha3" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/sha3" />
     </url>
     <url>
         <loc>https://tools.winter100.com/sha224</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/sha224" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/sha224" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/sha224" />
     </url>
     <url>
         <loc>https://tools.winter100.com/sha256</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/sha256" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/sha256" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/sha256" />
     </url>
     <url>
         <loc>https://tools.winter100.com/sha384</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/sha384" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/sha384" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/sha384" />
     </url>
     <url>
         <loc>https://tools.winter100.com/sha512</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/sha512" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/sha512" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/sha512" />
     </url>
     <url>
         <loc>https://tools.winter100.com/tetris</loc>
         <image:image>
             <image:loc>https://tools.winter100.com/images/rabit1.svg?t=1</image:loc>
         </image:image>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/tetris" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/tetris" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/tetris" />
     </url>
     <url>
         <loc>https://tools.winter100.com/tontools</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/tontools" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/tontools" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/tontools" />
     </url>
     <url>
         <loc>https://tools.winter100.com/tripledes</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/tripledes" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/tripledes" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/tripledes" />
     </url>
     <url>
         <loc>https://tools.winter100.com/xrptools</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://tools.winter100.com/xrptools" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://tools.winter100.com/xrptools" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools.winter100.com/xrptools" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.1 at 2025-09-09T06:48:34.773Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.1 at 2026-01-03T13:11:55.786Z -->
